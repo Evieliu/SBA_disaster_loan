@@ -9,5 +9,7 @@ A few questions: </br>
 <b>Limitation of data:</b></br>
 
 <li>The data does not include exact dates when people submitted their applications. It should be some time between the date when the disaster was declared and the deadline to file an application associated with that disaster. The waiting days are estimates based on both dates and are therefore not accurate.</li>
+
 <li>The data does not include records for loan applications that weren't approved.</li>
+
 <li>The approved loans in the data are not necessarily fully distributed.</li>
